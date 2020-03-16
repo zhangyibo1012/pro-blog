@@ -1,0 +1,7 @@
+
+tsquid:S1488½"\Immediately return this expression instead of assigning it to the temporary variable "list".(´™à
+@squid:S1604"(Make this anonymous inner class a lambda(«“Ü
+@squid:S1604®"(Make this anonymous inner class a lambda(«“Ü
+‚squid:S4144~"fUpdate this method so that its implementation is not identical to "listTop5NewestEsBlogs" on line 115.(æ“À–ÿÿÿÿÿ
+©%squid:RedundantThrowsDeclarationCheckM"xRemove the declaration of thrown exception 'org.elasticsearch.search.SearchParseException' which is a runtime exception.(ãœ™
+®%squid:RedundantThrowsDeclarationCheck]"xRemove the declaration of thrown exception 'org.elasticsearch.search.SearchParseException' which is a runtime exception.(ú¦§³ÿÿÿÿÿ
